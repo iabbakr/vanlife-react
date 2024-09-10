@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/vanlife-react/static/css/main.31d6cfe0.css",
+    "main.js": "/vanlife-react/static/js/main.ebe780f4.js",
+    "index.html": "/vanlife-react/index.html",
+    "main.ebe780f4.js.map": "/vanlife-react/static/js/main.ebe780f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ebe780f4.js"
+  ]
+}
